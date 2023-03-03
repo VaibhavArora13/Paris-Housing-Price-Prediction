@@ -39,7 +39,7 @@ All attributes are numeric variables and they are listed bellow:
 14. garage - garage size
 15. hasStorageRoom
 16. hasGuestRoom - number of guest rooms
-17. price - predicted
+17. price - predicted variable
 
 ## Result
 I got RMSE score of 225824.36227 and scored 272 position in competition
